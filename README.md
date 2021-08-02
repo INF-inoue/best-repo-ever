@@ -1,2 +1,2 @@
 # best-repo-ever
-# git 練習している
+# git 練習なう
